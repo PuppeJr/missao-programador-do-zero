@@ -1,3 +1,3 @@
 # missao-programador-do-zero
 
-Site para mostrar a temperatura 
+Site em HMTL5, CSS e JS para mostrar a temperatura local 
